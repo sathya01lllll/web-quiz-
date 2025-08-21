@@ -1,0 +1,342 @@
+{
+    "title": "quiz berhadiah saldo",
+    "questions": [
+        {
+            "question": "Planet manakah yang dikenal sebagai \"Planet Merah\"?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturnus"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Ibukota dari negara Jepang adalah...",
+            "options": [
+                "Seoul",
+                "Beijing",
+                "Tokyo",
+                "Bangkok"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Zat yang dihasilkan oleh tumbuhan pada proses fotosintesis adalah...",
+            "options": [
+                "Karbon Dioksida dan Air",
+                "Oksigen dan Glukosa",
+                "Nitrogen dan Glukosa",
+                "Air dan Nitrogen"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Siapakah penemu bola lampu pijar?",
+            "options": [
+                "Albert Einstein",
+                "Alexander Graham Bell",
+                "Thomas Alva Edison",
+                "Nikola Tesla"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Dalam bahasa Indonesia, kata \"Abash\" berarti...",
+            "options": [
+                "Gembira",
+                "Malu",
+                "Marah",
+                "Sedih"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Gunung tertinggi di dunia adalah...",
+            "options": [
+                "Gunung Kilimanjaro",
+                "Gunung Everest",
+                "Gunung Fuji",
+                "Gunung McKinley"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Patung Liberty di New York diberikan sebagai hadiah oleh negara mana?",
+            "options": [
+                "Italia",
+                "Spanyol",
+                "Inggris",
+                "Perancis"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "question": "Berapakah hasil dari 7\u00b2 + 3\u00b3?",
+            "options": [
+                "76",
+                "58",
+                "49",
+                "31"
+            ],
+            "correct_answer": 0
+        },
+        {
+            "question": "Penulis novel \"Laskar Pelangi\" adalah...",
+            "options": [
+                "Tere Liye",
+                "Andrea Hirata",
+                "Dee Lestari",
+                "Pramoedya Ananta Toer"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Lambang unsur kimia untuk Emas adalah...",
+            "options": [
+                "Ag",
+                "Fe",
+                "Au",
+                "Cu"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Tahun berapa Proklamasi Kemerdekaan Indonesia dibacakan?",
+            "options": [
+                "1944",
+                "1945",
+                "1946",
+                "1950"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Alat indera yang digunakan untuk mengecap adalah...",
+            "options": [
+                "Hidung",
+                "Telinga",
+                "Lidah",
+                "Kulit"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Suku yang terkenal dengan rumah panjangnya dan berasal dari Kalimantan adalah suku...",
+            "options": [
+                "Asmat",
+                "Dayak",
+                "Batak",
+                "Badui"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Nama lain dari segitiga yang semua sisinya sama panjang adalah...",
+            "options": [
+                "Segitiga Sama Kaki",
+                "Segitiga Siku-Siku",
+                "Segitiga Sembarang",
+                "Segitiga Sama Sisi"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "question": "Benda gas yang melindungi bumi dari sinar ultraviolet matahari adalah...",
+            "options": [
+                "Nitrogen",
+                "Karbon Dioksida",
+                "Oksigen",
+                "Ozon"
+            ],
+            "correct_answer": 3
+        },
+        {
+            "question": "Nama pelukis Indonesia terkenal yang melukis \"Penangkapan Pangeran Diponegoro\" adalah...",
+            "options": [
+                "Affandi",
+                "Raden Saleh",
+                "Basuki Abdullah",
+                "Srihadi Soedarsono"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "question": "Hewan yang mengalami metamorfosis sempurna adalah...",
+            "options": [
+                "Kecoak",
+                "Belalang",
+                "Katak",
+                "Kadal"
+            ],
+            "correct_answer": 2
+        },
+        {
+            "question": "Kitab suci umat Agama Buddha adalah...",
+            "options": [
+                "Al-Quran",
+                "Weda",
+                "Tripitaka",
+                "Injil"
+            ],
+            "correct_answer": 2
+        }
+    ],
+    "dana_link": "https:\/\/link.dana.id\/danakaget?c=sy7rbaxet&r=kpQipQ&orderId=20250821101214159515010300166601437367546",
+    "participants": [
+        {
+            "username": "testing123",
+            "telegram_id": "12345677775",
+            "ip": "36.69.2.34",
+            "timestamp": 1755724777,
+            "success": false
+        },
+        {
+            "username": "@sjbxyz",
+            "telegram_id": "7741411985",
+            "ip": "114.79.22.95",
+            "timestamp": 1755724823,
+            "success": true
+        },
+        {
+            "username": "Semoga Aku",
+            "telegram_id": "Menang",
+            "ip": "36.69.2.34",
+            "timestamp": 1755725053,
+            "success": false
+        },
+        {
+            "username": "@SangMata_BOT",
+            "telegram_id": "\u7d20\u6674\u3089\u3057\u3044",
+            "ip": "36.69.2.34",
+            "timestamp": 1755725284,
+            "success": false
+        },
+        {
+            "username": "Oke Gas",
+            "telegram_id": "Oke Gas",
+            "ip": "36.69.2.34",
+            "timestamp": 1755725947,
+            "success": false
+        },
+        {
+            "username": "dhilzzxdcode",
+            "telegram_id": "7176495250",
+            "ip": "112.215.174.43",
+            "timestamp": 1755726982,
+            "success": false
+        },
+        {
+            "username": "dhilzzxdcode",
+            "telegram_id": "7176495250",
+            "ip": "112.215.174.43",
+            "timestamp": 1755727376,
+            "success": true
+        },
+        {
+            "username": "@staypedia",
+            "telegram_id": "7683274880",
+            "ip": "114.10.134.155",
+            "timestamp": 1755728072,
+            "success": false
+        },
+        {
+            "username": "lu-asu",
+            "telegram_id": "6666666",
+            "ip": "115.178.237.122",
+            "timestamp": 1755728250,
+            "success": false
+        },
+        {
+            "username": "sathya",
+            "telegram_id": "4950569982",
+            "ip": "103.122.65.105",
+            "timestamp": 1755729371,
+            "success": true
+        },
+        {
+            "username": "Hshxhshhz",
+            "telegram_id": "Xnxndjrn",
+            "ip": "36.69.2.34",
+            "timestamp": 1755730440,
+            "success": false
+        },
+        {
+            "username": "Shshzbdbfj",
+            "telegram_id": "Djncbfb",
+            "ip": "36.69.2.34",
+            "timestamp": 1755730460,
+            "success": false
+        },
+        {
+            "username": "@wanzAdmin",
+            "telegram_id": "6837025112",
+            "ip": "114.79.22.41",
+            "timestamp": 1755730507,
+            "success": false
+        },
+        {
+            "username": "barrstoreee",
+            "telegram_id": "6073817027",
+            "ip": "115.178.238.126",
+            "timestamp": 1755730527,
+            "success": false
+        },
+        {
+            "username": "Djdjdjrjjxhd",
+            "telegram_id": "Snsjsjdjdjrjrj",
+            "ip": "36.69.2.34",
+            "timestamp": 1755730553,
+            "success": false
+        },
+        {
+            "username": "@jagojempol",
+            "telegram_id": "7441724786",
+            "ip": "36.82.207.136",
+            "timestamp": 1755730594,
+            "success": false
+        },
+        {
+            "username": "Zjxjdjfjfh",
+            "telegram_id": "Rktkdjdje",
+            "ip": "36.69.2.34",
+            "timestamp": 1755730616,
+            "success": false
+        },
+        {
+            "username": "Djddjhd",
+            "telegram_id": "Zjzdbdb",
+            "ip": "36.69.2.34",
+            "timestamp": 1755730689,
+            "success": false
+        },
+        {
+            "username": "sjbxyz",
+            "telegram_id": "7741411985",
+            "ip": "114.79.22.95",
+            "timestamp": 1755732471,
+            "success": true
+        },
+        {
+            "username": "herishop_id",
+            "telegram_id": "5335942903",
+            "ip": "36.79.111.10",
+            "timestamp": 1755733888,
+            "success": false
+        },
+        {
+            "username": "Urtchh",
+            "telegram_id": "7360382676",
+            "ip": "157.20.252.132",
+            "timestamp": 1755733898,
+            "success": false
+        },
+        {
+            "username": "@herishop_id",
+            "telegram_id": "5335942903",
+            "ip": "36.79.111.10",
+            "timestamp": 1755733951,
+            "success": false
+        }
+    ]
+}
